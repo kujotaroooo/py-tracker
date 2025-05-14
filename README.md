@@ -56,6 +56,4 @@ Latitude: 37.751, Longitude: -97.822
 
 ---
 
-## Disclaimer
-
-This tool is for educational purposes only. Ensure you comply with all applicable laws and regulations when using it.
+follow my github
